@@ -12,7 +12,7 @@ playerImg = pygame.image.load('sleigh.png')
 playerX = 370
 playerY = 480
 
-def player(x,y):
+def player(x, y):
     screen.blit(playerImg, (X, Y))
 
 running = True
@@ -36,5 +36,5 @@ while running:
                 print("Keystroke has been released")                
            
 
-    player(playerX,playerY)
+    player(playerX, playerY)
     pygame.display.update()
