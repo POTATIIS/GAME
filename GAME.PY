@@ -13,7 +13,7 @@ playerX = 370
 playerY = 480
 
 def player(x, y):
-    screen.blit(playerImg, (X, Y))
+     screen.blit(playerImg, (X, Y))
 
 running = True
 while running:

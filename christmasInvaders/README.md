@@ -1,0 +1,1 @@
+Jag har tänkt att göra space invaders med jul tema, som hjälp så kommer jag att följa en guide(men ska försöka att göra så mycket som möjligt utan den),  eftersom att jag inte är så van vid att använda pygame.
